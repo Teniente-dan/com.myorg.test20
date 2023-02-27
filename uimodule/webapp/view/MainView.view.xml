@@ -1,0 +1,38 @@
+<mvc:View controllerName="com.myorg.test20.controller.MainView"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <!-- "{ path: '/MisActividadesSet', sorter: { path: 'MesAno', group: '.getGroup'}, groupHeaderFactory: '.getGroupHeader' }" -->
+            <!-- <Table items="{actividades>/}"> -->
+            <Table items="{ path: 'actividades>/', sorter: { path: 'MesAno', group: true }, groupHeaderFactory: '.getGroupHeader' }">
+                <columns>
+                    <Column>
+                        <header>
+                            <Text text="Mes Anio"/>
+                        </header>
+                        <!-- <footer>
+                            <Text text="total: " width="auto" maxLines="1" wrapping="false" textAlign="Begin" textDirection="Inherit" visible="false" />
+                        </footer> -->
+                    </Column>
+                    <Column>
+                        <header>
+                            <Text text="Valor"/>
+                        </header>
+                        <footer>
+                            <Text text="xxxx"/>
+                        </footer>
+                    </Column>
+                </columns>
+                <items>
+                    <ColumnListItem id="list1">
+                        <cells>
+                            <Text text="{actividades>MesAno}"/>
+                            <Text text="{actividades>Valor}"/>
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+        </content>
+    </Page>
+</mvc:View>

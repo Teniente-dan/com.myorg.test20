@@ -1,0 +1,154 @@
+{
+
+  "d": {
+    "results": [{
+        "__metadata": {
+          "id": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "uri": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "type": "ZGW_PAL_EDUCA_SRV.MisActividades"
+        },
+        "Uname": "137104628",
+        "Year": "2023",
+        "Rut": "13.710.462-8",
+        "Name": "HERNANDEZ TORRES ROBERTO IVAN",
+        "MesAno": "01.2023",
+        "Kltxt": "Odontologia",
+        "Codact": "ODT3024_CA01",
+        "Desact": "OCLUSIÓN TRASTORNOS TÉMPOROMANDIBULARES",
+        "NumSesPag": "1",
+        "TipoPago": "Remuneración",
+        "TipoMonto": "MONTO ESCALA",
+        "Valor": "         164.795",
+        "Type": "",
+        "Message": ""
+      },
+      {
+        "__metadata": {
+          "id": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "uri": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "type": "ZGW_PAL_EDUCA_SRV.MisActividades"
+        },
+        "Uname": "137104628",
+        "Year": "2023",
+        "Rut": "13.710.462-8",
+        "Name": "",
+        "MesAno": "02.2023",
+        "Kltxt": "Odontologia",
+        "Codact": "ODT3024_CA01",
+        "Desact": "OCLUSIÓN TRASTORNOS TÉMPOROMANDIBULARES",
+        "NumSesPag": "1",
+        "TipoPago": "Remuneración",
+        "TipoMonto": "MONTO ESCALA",
+        "Valor": "         164.795",
+        "Type": "",
+        "Message": ""
+      },
+      {
+        "__metadata": {
+          "id": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "uri": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "type": "ZGW_PAL_EDUCA_SRV.MisActividades"
+        },
+        "Uname": "137104628",
+        "Year": "2023",
+        "Rut": "13.710.462-8",
+        "Name": "",
+        "MesAno": "01.2023",
+        "Kltxt": "Odontologia",
+        "Codact": "ODT3028_CA01",
+        "Desact": "CLÍNICA DE REHABILITACIÓN ORAL",
+        "NumSesPag": "8",
+        "TipoPago": "Remuneración",
+        "TipoMonto": "MONTO ESCALA",
+        "Valor": "",
+        "Type": "",
+        "Message": ""
+      },
+      {
+        "__metadata": {
+          "id": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "uri": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "type": "ZGW_PAL_EDUCA_SRV.MisActividades"
+        },
+        "Uname": "137104628",
+        "Year": "2023",
+        "Rut": "13.710.462-8",
+        "Name": "",
+        "MesAno": "02.2023",
+        "Kltxt": "Odontologia",
+        "Codact": "ODT3028_CA01",
+        "Desact": "CLÍNICA DE REHABILITACIÓN ORAL",
+        "NumSesPag": "8",
+        "TipoPago": "Remuneración",
+        "TipoMonto": "MONTO ESCALA",
+        "Valor": "",
+        "Type": "",
+        "Message": ""
+      },
+      {
+        "__metadata": {
+          "id": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "uri": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "type": "ZGW_PAL_EDUCA_SRV.MisActividades"
+        },
+        "Uname": "137104628",
+        "Year": "2023",
+        "Rut": "13.710.462-8",
+        "Name": "",
+        "MesAno": "01.2023",
+        "Kltxt": "Odontologia",
+        "Codact": "ODT3034_CA01",
+        "Desact": "CLÍNICA INTEGRAL DEL ADULTO Y SENESCENTE",
+        "NumSesPag": "2",
+        "TipoPago": "Remuneración",
+        "TipoMonto": "MONTO ESCALA",
+        "Valor": "",
+        "Type": "",
+        "Message": ""
+      },
+      {
+        "__metadata": {
+          "id": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "uri": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "type": "ZGW_PAL_EDUCA_SRV.MisActividades"
+        },
+        "Uname": "137104628",
+        "Year": "2023",
+        "Rut": "13.710.462-8",
+        "Name": "",
+        "MesAno": "02.2023",
+        "Kltxt": "Odontologia",
+        "Codact": "ODT3034_CA01",
+        "Desact": "CLÍNICA INTEGRAL DEL ADULTO Y SENESCENTE",
+        "NumSesPag": "2",
+        "TipoPago": "Remuneración",
+        "TipoMonto": "MONTO ESCALA",
+        "Valor": "",
+        "Type": "",
+        "Message": ""
+      },
+      {
+        "__metadata": {
+          "id": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "uri": "https://fiori-qas.udp.cl:44300/sap/opu/odata/sap/ZGW_PAL_EDUCA_SRV/MisActividadesSet('2023')",
+          "type": "ZGW_PAL_EDUCA_SRV.MisActividades"
+        },
+        "Uname": "137104628",
+        "Year": "2023",
+        "Rut": "13.710.462-8",
+        "Name": "",
+        "MesAno": "03.2023",
+        "Kltxt": "",
+        "Codact": "ICO1101_CAT",
+        "Desact": "INTRODUCCIÓN AL ÁLGEBRA",
+        "NumSesPag": "2",
+        "TipoPago": "",
+        "TipoMonto": "OTRO HABER",
+        "Valor": "",
+        "Type": "",
+        "Message": ""
+      }
+    ]
+  }
+
+}
